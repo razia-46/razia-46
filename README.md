@@ -109,11 +109,3 @@ Experienced IT engineer 🚀 skilled in programming with expertise in TensorFlow
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=razia-46&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
