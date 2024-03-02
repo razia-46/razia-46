@@ -18,41 +18,28 @@
 
 
 ### Glad to see you here!  
-Experienced IT engineer 🚀 skilled in programming with expertise in TensorFlow and Keras. Proficient in Python, C, and JavaScript. Proven problem solver 🧩 with a track record of delivering scalable software solutions. Collaborative team player 🤝 with success in diverse projects. Committed to continuous learning 📚, staying updated on industry trends. Open to connecting with professionals for collaboration and new opportunities. Currently serving as a management lead at Google DSC 🌐 and proud participant in the Microsoft Students Program.  
+- Experienced IT engineer 🚀 skilled in programming with expertise in TensorFlow and Keras.
+- Proficient in Python, C, and JavaScript.
+- Proven problem solver 🧩 with a track record of delivering scalable software solutions.
+- Collaborative team player 🤝 with success in diverse projects.
+- Committed to continuous learning 📚, staying updated on industry trends.
+- Open to connecting with professionals for collaboration and new opportunities.
+- Currently serving as a management lead at Google DSC 🌐 and proud participant in the Microsoft Students Program.
+
   
 
 <br/>  
 
+### 🚀 Rapidfire  
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on Problem Solving on Hackerank  
-  
-
+- 💡 I’m currently working on Problem Solving on HackerRank  
 - 🌱 I’m currently learning Web Dev and Machine Learning  
-  
-
-- ❓ Ask me about anything related to Web Dev   
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
+- ❔ Ask me about anything related to Web Dev   
+- ⚡ Fun fact: I keep night shift switched on at all times   
 
 
 ## Languages and Tools  
-<div align="center">  
+<div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
