@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-Experienced IT engineer 🚀 skilled in programming with expertise in TensorFlow and Keras. Proficient in Python, C, and JavaScript. Proven problem solver 🧩 with a track record of delivering scalable software solutions. Collaborative team player 🤝 with success in diverse projects. Committed to continuous learning 📚, staying updated on industry trends. Open to connecting with professionals for collaboration and new opportunities. Currently serving as a management lead at Google DSC 🌐 and proud participant in the Microsoft Students Program.  
+Experienced undergraduate IT engineer 🚀 skilled in programming. Proficient in Python, Java, and JavaScript. Proven problem solver 🧩. Collaborative team player 🤝 with success in diverse projects. Committed to continuous learning 📚, staying updated on industry trends. Open to connecting with professionals for collaboration and new opportunities. Currently serving as a LEAD at Google Doveloper Groups 🌐.  
   
 
 <br/>  
