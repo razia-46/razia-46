@@ -27,10 +27,10 @@ Experienced IT engineer 🚀 skilled in programming with expertise in TensorFlow
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Problem Solving on Hackerank  
+- 🔭 I’m currently working on my Java Skills  
   
 
-- 🌱 I’m currently learning Web Dev and Machine Learning  
+- 🌱 I’m currently learning Web Dev   
   
 
 - ❓ Ask me about anything related to Web Dev   
